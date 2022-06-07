@@ -1,0 +1,15 @@
+
+Start-Date: 2022-06-01  19:39:09
+Commandline: apt install lvm2
+Install: lvm2:amd64 (2.02.111-2.2+deb8u1), libreadline5:amd64 (5.2+dfsg-2, automatic), liblvm2cmd2.02:amd64 (2.02.111-2.2+deb8u1, automatic), libdevmapper-event1.02.1:amd64 (1.02.90-2.2+deb8u1, automatic), dmeventd:amd64 (1.02.90-2.2+deb8u1, automatic)
+End-Date: 2022-06-01  19:39:11
+
+Start-Date: 2022-06-01  19:39:29
+Commandline: apt install make
+Install: make:amd64 (4.0-8.1)
+End-Date: 2022-06-01  19:39:29
+
+Start-Date: 2022-06-01  19:39:41
+Commandline: apt install gcc
+Install: libisl10:amd64 (0.12.2-2, automatic), libasan1:amd64 (4.9.2-10+deb8u1, automatic), libquadmath0:amd64 (4.9.2-10+deb8u1, automatic), libmpc3:amd64 (1.0.2-1, automatic), libubsan0:amd64 (4.9.2-10+deb8u1, automatic), cpp-4.9:amd64 (4.9.2-10+deb8u1, automatic), libgomp1:amd64 (4.9.2-10+deb8u1, automatic), libtsan0:amd64 (4.9.2-10+deb8u1, automatic), libcilkrts5:amd64 (4.9.2-10+deb8u1, automatic), libc-dev-bin:amd64 (2.19-18+deb8u10, automatic), libatomic1:amd64 (4.9.2-10+deb8u1, automatic), libmpfr4:amd64 (3.1.2-2, automatic), binutils:amd64 (2.25-5+deb8u1, automatic), gcc:amd64 (4.9.2-2), cpp:amd64 (4.9.2-2, automatic), gcc-4.9:amd64 (4.9.2-10+deb8u1, automatic), libcloog-isl4:amd64 (0.18.2-1+b2, automatic), manpages-dev:amd64 (3.74-1, automatic), libgcc-4.9-dev:amd64 (4.9.2-10+deb8u1, automatic), linux-libc-dev:amd64 (3.16.56-1+deb8u1, automatic), liblsan0:amd64 (4.9.2-10+deb8u1, automatic), libitm1:amd64 (4.9.2-10+deb8u1, automatic), libc6-dev:amd64 (2.19-18+deb8u10, automatic)
+End-Date: 2022-06-01  19:39:49
